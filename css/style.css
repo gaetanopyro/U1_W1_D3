@@ -24,7 +24,9 @@ body {
   background-color: #fdfbf1;
   text-align: center;
   color: #004d4c;
-  outline: #004d4c;
+  border: 0;
+  height: 35px;
+  margin: 0;
 }
 .tit {
   text-align: center;
