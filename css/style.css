@@ -55,13 +55,13 @@ body {
   font-size: medium;
   font-weight: bold;
 }
-.lineig {
+.line-ig {
   border-color: hsl(178, 100%, 85%);
   background-color: hsl(178, 100%, 85%);
   color: hsl(178, 100%, 85%);
 }
 .inlin-block {
-  border-left-color: solid orange;
+  border-left: 2px solid orange;
 }
 .sottomenu {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
