@@ -1,0 +1,78 @@
+body {
+  width: 700px;
+  height: 700px;
+  background-color: #ffffff;
+  margin: 0 auto;
+}
+.pic {
+  background-color: rgb(255, 255, 255);
+  width: 150px;
+  display: block;
+  margin: 0 auto;
+}
+.focaccia {
+  width: 700px;
+  height: 450px;
+  border-radius: 20px;
+}
+.separatore {
+  border-color: #fdbf11;
+  background-color: #fdbf11;
+  color: #fdbf11;
+}
+.intro {
+  background-color: #fdfbf1;
+  text-align: center;
+  color: #004d4c;
+  outline: #004d4c;
+}
+.tit {
+  text-align: center;
+  color: #333333;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-size: xx-large;
+}
+.inizio {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.inizio {
+  font-weight: normal;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.image {
+  text-align: center;
+  color: hsl(0, 2%, 63%);
+}
+.feat {
+  margin-bottom: 0;
+  color: #b9501d;
+}
+
+.ingredienti {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: medium;
+  font-weight: bold;
+}
+.lineig {
+  border-color: hsl(178, 100%, 85%);
+  background-color: hsl(178, 100%, 85%);
+  color: hsl(178, 100%, 85%);
+}
+.inlin-block {
+  border-left-color: solid orange;
+}
+.sottomenu {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+.elenco {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.fine {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+.pad {
+  padding: 30px;
+}
